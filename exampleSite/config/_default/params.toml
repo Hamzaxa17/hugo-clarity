@@ -8,7 +8,8 @@ introDescription = "Technologist, perpetual student, teacher, continual incremen
 
 # Google analytics Id
 ga_analytics = "XXXXXXXXXX"
-
+Adsclient = "ca-pub-7833143561883443"
+AdsinArticleSlot = ""
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
 
