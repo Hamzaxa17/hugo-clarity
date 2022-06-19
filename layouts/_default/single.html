@@ -21,7 +21,7 @@
     <h2>{{ T "overview" }}</h2>
     {{ .TableOfContents }}
     {{ end }}
-    {{- .Content }}
+    {{- .Content }}{{ partial "adsense-inarticle.html" . }}
     {{- $showComments := true }}
     {{- if eq $s.comments false }}
       {{- $showComments = false }}
